@@ -49,3 +49,5 @@ $npm start
 
 4- In /Docker (Every-time to Run the System):
 $docker-compose up --
+
+5- Run the mobile app from the repo: https://github.com/Ahmed-Tayel/Android-App-Marketing-Analyzer
